@@ -1,0 +1,13 @@
+{
+  "itemGroup.stickfigure": "Example Mod Tab",
+  "block.stickfigure.example_block": "Example Block",
+  "item.stickfigure.example_item": "Example Item",
+
+  "stickfigure.configuration.title": "StickFigure Configs",
+  "stickfigure.configuration.section.stickfigure.common.toml": "StickFigure Configs",
+  "stickfigure.configuration.section.stickfigure.common.toml.title": "StickFigure Configs",
+  "stickfigure.configuration.items": "Item List",
+  "stickfigure.configuration.logDirtBlock": "Log Dirt Block",
+  "stickfigure.configuration.magicNumberIntroduction": "Magic Number Text",
+  "stickfigure.configuration.magicNumber": "Magic Number"
+}
