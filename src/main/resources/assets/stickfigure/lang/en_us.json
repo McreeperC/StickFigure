@@ -1,7 +1,7 @@
 {
-  "itemGroup.stickfigure": "Example Mod Tab",
+  "itemGroup.stickfigure": "Stick Figure",
   "block.stickfigure.example_block": "Example Block",
-  "item.stickfigure.example_item": "Example Item",
+  "item.stickfigure.minecraft_icon": "Minecraft Icon",
 
   "stickfigure.configuration.title": "StickFigure Configs",
   "stickfigure.configuration.section.stickfigure.common.toml": "StickFigure Configs",
