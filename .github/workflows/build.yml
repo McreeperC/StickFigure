@@ -1,0 +1,11 @@
+name: Build
+
+on:
+  workflows_dispatch
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Build Mod
+        run: ./gradlew build
